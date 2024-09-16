@@ -1,3 +1,13 @@
 {
-    "python.pythonPath": "/Users/bharadwajkasturi/opt/anaconda3/envs/myenv/bin/python"
+    "python.pythonPath": "/Users/bharadwajkasturi/opt/anaconda3/envs/myenv/bin/python",
+
+    "terminal.integrated.env.osx": 
+    { "DBT_BIGQUERY_KEYFILE_PATH": "/Users/bharadwajkasturi/Desktop/DataEng/end-to-end-data-engineering-project/keys/big-star-collectables-dbt-433122-776f9814aa2a.json", 
+        "DBT_BIGQUERY_LOCATION": "US", 
+        "DBT_BIGQUERY_PROJECT": "big-star-collectables-433122", 
+        "DBT_BIGQUERY_DATASET": "transformed_data", 
+        "DBT_PROFILES_DIR": "/Users/bharadwajkasturi/Desktop/DataEng/end-to-end-data-engineering-project/dbt_transformation/config" 
+    }
+
 }
+
