@@ -1,5 +1,4 @@
 import os
-
 from dagster_dbt import load_assets_from_dbt_project
 from dagster_dbt import dbt_cli_resource
 from dagster import (
